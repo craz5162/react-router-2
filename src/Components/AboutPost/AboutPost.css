@@ -1,0 +1,19 @@
+.aboutPost{
+      background-color: darkorange;
+      padding: 20px;
+      margin: 20px;
+      border-radius: 15px;
+      color: white;
+}
+.aboutPost button {
+      background-color: lightblue;
+      padding: 15px 40px;
+      border: none;
+      border-radius: 4px;
+      margin-top: 10px;
+}
+.aboutPost a{
+      color: red;
+      font-weight: bolder;
+      text-decoration: none;
+}
